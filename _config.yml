@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ziyan Ai (Emma)"
+title                    : "Ziyan Ai"
 title_separator          : "-"
-name                     : &name "Ziyan Ai"
+name                     : &name "Ziyan Ai (Emma)"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   name             : "Ziyan Ai"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong"
+  employer         : "The University of Hong Kong"
   uri              : # URL
   email            : "ziyanai@connect.hku.hk" 
 
