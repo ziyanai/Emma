@@ -12,7 +12,7 @@ citation: 'Ai, Z., Chiu, D. K., & Ho, K. K. (2024). Social media analytics of us
 
 ---
 
-**Published:** Ai, Z., Chiu, D. K., & Ho, K. K. (2024). Social Media Analytics of User Evaluation for Innovative Digital Cultural and Creative Products: Experiences Regarding Dunhuang Cultural Heritage. ACM Journal on Computing and Cultural Heritage, 17(3), 1-25. [https://doi.org/10.1145/3653307](https://doi.org/10.1145/3653307)
+**Published:** **Ai, Z.**, Chiu, D. K., & Ho, K. K. (2024). Social Media Analytics of User Evaluation for Innovative Digital Cultural and Creative Products: Experiences Regarding Dunhuang Cultural Heritage. ACM Journal on Computing and Cultural Heritage, 17(3), 1-25. [https://doi.org/10.1145/3653307](https://doi.org/10.1145/3653307)
 
 
 **Background:** This study provides insights into improving the user experience for researchers concentrating on cultural heritage education via digital cultural and creative products (CACPs).
