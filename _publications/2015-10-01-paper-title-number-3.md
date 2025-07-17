@@ -3,7 +3,7 @@ title: "Social media analytics of user evaluation for innovative digital cultura
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'The First Author, SJR = 0.632 (Q1), SCIE, IF (5) = 3.0'
 date: 2024-05-22
 venue: 'Journal on Computing and Cultural Heritage' 
 slidesurl: # 'http://academicpages.github.io/files/slides3.pdf'
