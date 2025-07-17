@@ -8,7 +8,8 @@ date: 2024-05-22
 venue: 'Journal 17' 
 slidesurl: # 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://www.researchgate.net/profile/Ziyan-Ai/publication/379298528_Social_Media_Analytics_of_User_Evaluation_for_Innovative_Digital_Cultural_and_Creative_Products_Experiences_Regarding_Dunhuang_Cultural_Heritage/links/66ed8f056b101f6fa4f3c4a4/Social-Media-Analytics-of-User-Evaluation-for-Innovative-Digital-Cultural-and-Creative-Products-Experiences-Regarding-Dunhuang-Cultural-Heritage.pdf'
-citation: 'Ai, Z., Chiu, D. K., & Ho, K. K. (2024). Social media analytics of user evaluation for innovative digital cultural and creative products: Experiences regarding dunhuang cultural heritage.&quot; <i>17(3)</i>. 1-25.'
+citation: 'Ai, Z., Chiu, D. K., & Ho, K. K. (2024). Social media analytics of user evaluation for innovative digital cultural and creative products: Experiences regarding dunhuang cultural heritage.<i>ACM Journal on Computing and Cultural Heritage</i>, </i>17(3)</i>. 1-25.'
+
 ---
 
 Published: Ai, Z., Chiu, D. K., & Ho, K. K. (2024). Social Media Analytics of User Evaluation for Innovative Digital Cultural and Creative Products: Experiences Regarding Dunhuang Cultural Heritage. ACM Journal on Computing and Cultural Heritage, 17(3), 1-25. https://doi.org/10.1145/3653307
