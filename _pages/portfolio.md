@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Sergeant at Arms 
+<hr class="custom-hr">
 **Organization:**  HKU Campus Toastmasters Club  
 **Period:** Jan 2023 - June 2024 
 
@@ -16,6 +17,7 @@ author_profile: true
 
 
 ## Volunteer 
+<hr class="custom-hr">
 **Organization:** "Competing with Socrates" Project at HKU  
 **Period:** Jan 2022 - Nov 2022 
 
