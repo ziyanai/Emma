@@ -8,6 +8,7 @@ author_profile: true
 {% include toc %}
 
 ## Part-time Research Assistant
+<hr class="custom-hr">
 **Location:** Hong Kong Metropolitan University  
 **Period:** Jul 2024 – Dec 2024
 
@@ -18,7 +19,7 @@ author_profile: true
 
 
 ## Library Assistant 
-
+<hr class="custom-hr">
 **Location:** Victoria Shanghai Academy  
 **Period:** Oct 2023 - Present 
 
@@ -29,6 +30,7 @@ author_profile: true
 
 
 ## Youth TRYer 
+<hr class="custom-hr">
 **Location:**China Mobile Hong Kong Company Limited  
 **Period:** Nov 2022 - Oct 2023
 
@@ -41,6 +43,7 @@ author_profile: true
 
 
 ## Management Trainee 
+<hr class="custom-hr">
 **Location:** Cbond Supply China (Zhuhai) Co., Ltd.  
 **Period:** Aug 2020 - Sep 2020
 
@@ -51,6 +54,7 @@ author_profile: true
 
 
 ## Intern of IMP 
+<hr class="custom-hr">
 **Full Title:** Intern of the Investment Management Department (IMP)  
 **Location:** Bank of China (Hong Kong) Limited  
 **Period:** Jun 2018 - Jun 2018 
