@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/culture-tourism-integration
 excerpt: 'Preparing for publication to _The University of Chicago Press Journals_ this year'
 date: 2025-01-01
+PP: 'Preparing for publication to '
 venue: 'The University of Chicago Press Journals'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
