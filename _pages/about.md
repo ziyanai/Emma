@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Self-Introduction" 
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,18 +33,25 @@ My long-term research goal is to develop autonomous GUI agents capable of:
 
 ## Education
 
--   **Ph.D. in Computer Science (NLP and Agent-Based Models)**  
-    The University of Hong Kong | Sep 2024 - Present  
-    _Advised by: Prof. Tao Yu_
-    
--   **MSc in Library and Information Management**  
+-   **Master of Science in Library and Information Management**  
     The University of Hong Kong | Sep 2021 - Dec 2022  
     _Pass with Distinction_  
-    Modules: Data Science and Learning Analytics, Information Behaviour, Information System Analysis and Development
+
+    | Modules|
+    |--|
+    | Data Science and Learning Analytics |
+    |Information Behaviour|
+    |Information System Analysis and Development|
     
--   **BBA (Hons.) e-Business Management and Information Systems**  
+    
+-   **Bachelor of Business Administration (Hons.) e-Business Management and Information Systems**  
     Hong Kong Baptist University | Sep 2017 - Jul 2021  
-    Modules: Programming for Business Applications, Database Management, Business Systems Design and Analysis  
     _Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021)_
+    
+    | Modules|
+    |--|
+    | Programming for Business Applications |
+    |Database Management|
+    |Business Systems Design and Analysis|
 
 
