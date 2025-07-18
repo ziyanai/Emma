@@ -50,7 +50,8 @@ author_profile: true
 
 
 
-## Intern of the Investment Management Department
+## Intern of IMP 
+**Full Title:** Intern of the Investment Management Department (IMP)  
 **Location:** Bank of China (Hong Kong) Limited  
 **Period:** Jun 2018 - Jun 2018 
 
