@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'Tobepublished' %}
-          <p> Preparing for publication to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> Preparing for publication to <i>{{ post.venue }}</i>, {{ post.date }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
