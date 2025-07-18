@@ -20,8 +20,8 @@ main:
   - title: "Activities"
     url: /activities/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Others"
+    url: /others/
     
   # - title: "CV"
   #   url: /cv/
