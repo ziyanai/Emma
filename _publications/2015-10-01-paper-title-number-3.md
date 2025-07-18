@@ -1,7 +1,7 @@
 ---
 title: "Social media analytics of user evaluation for innovative digital cultural and creative products: Experiences regarding dunhuang cultural heritage"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/social-media-analytics
 excerpt: 'The First Author, SJR = 0.632 (Q1), SCIE, IF (5) = 3.0'
 date: 2024-05-22
