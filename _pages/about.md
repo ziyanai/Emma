@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a first-year Ph.D. student at the University of Hong Kong, passionately pursuing research in Natural Language Processing (NLP) and fundamental model-based agents. Under the guidance of Prof. Tao Yu, I am a member of the XLANG Lab and HKU NLP Lab. I hold a Bachelor's degree in Computer Science and Technology from Tsinghua University, where I specialized in Human-Computer Interaction (HCI) under the mentorship of Prof. Chun Yu and Prof. Yuanchun Shi.
+I am a graduated student at the University of Hong Kong, passionately pursuing research in Natural Language Processing (NLP) and fundamental model-based agents. I hold a Bachelor's degree in e-Business Management and Information Systems from Hong Kong Baptist University, where I specialized in Human-Computer Interaction (HCI) under the mentorship of Dr. Chiu, Dickson K. W. 
 
 ## Research Interests
 
@@ -53,5 +53,19 @@ My long-term research goal is to develop autonomous GUI agents capable of:
     | Programming for Business Applications |
     |Database Management|
     |Business Systems Design and Analysis|
+
+
+## Study Tour 
+-   **Summer Programme of Disease and Medicine**  
+    Hong Kong Baptist University | Jul 2019 - Aug 2019  
+    Explored diverse topics, including traditional Chinese medicine, pharmacology, and pathology, significantly broadening my understanding of the healthcare industry.  
+    Successfully earned academic credits and achieved commendable grades for participation in the programme.
+    
+-   **Summer Programme of Bauhaus Insight**  
+    Bauhaus-Universitaet Weimar | Aug 2018  
+    Exhibited great comprehension and performance on assignments; successfully earned academic credits.  
+    Applied design concepts over several media while learning interactive work and computer programming.
+
+
 
 
