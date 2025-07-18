@@ -1,15 +1,32 @@
 ---
-title: "Paper Title Number 1"
+title: "E-book Market Dynamics in China: A Social Media Sentiment Analysis of Consumer Reactions to Amazon Kindle's Withdrawal"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/e-book-market-dynamics
+excerpt: #'This paper is about fixing template issue #693.'
+date: 2024-02-17
 PP: 'Preparing for publication to '
-venue: 'Journal 1'
-slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Library and Information Science'
+paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
+citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).' 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+**To be Published:** Preparing for submission to _Library and Information Science_ this year;
+
+**Authors:** Luran Shi , **Ziyan Ai**, Zerong Xie, Dickson K. W. Chiu, Samuel Ping-Man Choi 
+
+**Background:** Utilising comments about e-books on Weibo over two years, this study looks at consumer responses to Amazon Kindle's exit from the Chinese market.
+
+**Purpose:** The objective is to investigate opinions on e-books and information-sharing practices, which offer ideas for the future growth of the e-book market in China.
+
+**Methodology:** Python was used to compile user comments covering both before and after Kindle's exit. Python and SPSS were used for sentiment analysis and comparison of variances. Using RapidMiner, clustering techniques investigated attitudes and similarity distributions.
+
+**Findings:** Along with customer responses about consumer rights and compensation following withdrawal, insights into consumer needs for e-books emerged.
+
+**Suggestions:** As discussed in Weibo comments on Kindle's departure, Amazon should classify consumer groups based on purchase time and provide different compensations depending on this.
+
+
+
+
+
+
