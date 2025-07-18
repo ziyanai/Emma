@@ -8,7 +8,7 @@ author_profile: true
 {% include toc %}
 
 ## Part-time Research Assistant
-**Location:** Hong Kong Metropolitan University
+**Location:** Hong Kong Metropolitan University  
 **Period:** Jul 2024 – Dec 2024
 
  - Compile data from several internet sources to back up research initiatives and raise the standard of academic output.
