@@ -1,8 +1,8 @@
 ---
 title: "Culture-Tourism Integration in Public Libraries: Social Media Text Mining Analysis on Chinese Metropolitan Libraries"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+category: conferences
+permalink: /publication/culture-tourism-integration
 excerpt: 'Preparing for publication to _The University of Chicago Press Journals_ this year'
 date: 2025-01-01
 venue: 'The University of Chicago Press Journals'
