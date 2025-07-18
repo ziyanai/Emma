@@ -3,7 +3,7 @@ title: "Culture-Tourism Integration in Public Libraries: Social Media Text Minin
 collection: publications
 category: conferences
 permalink: /publication/culture-tourism-integration
-excerpt: # 'Preparing for publication to _The University of Chicago Press Journals_ this year'
+excerpt: 'Rich in cultural resources, public libraries have always fulfilled the public need for knowledge and cultural involvement. Libraries have evolved into an essential part of this trend as tourism moves towards cultural experiences since they offer varied services and draw guests as sites of cultural travel.'
 date: 2025-01-01
 PP: 'Preparing for publication to '
 venue: 'The University of Chicago Press Journals'
@@ -11,6 +11,8 @@ slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+
+
 
 **First round of minor revision:** Preparing for publication to _The University of Chicago Press Journals_ this year 
 

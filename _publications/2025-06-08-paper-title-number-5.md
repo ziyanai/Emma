@@ -3,13 +3,16 @@ title: "Deepfake in Education: A Systematic Review of Applications, Challenges, 
 collection: publications
 category: conferences
 permalink: /publication/deepfake-in-education
-excerpt: # 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Deepfake has great potential as an educational tool, but it also poses some ethical and technical challenges.'
 date: 2025-01-02
 PP: 'Preparing for publication to '
 venue: 'International Conference on GenAI Literacy: Multidisciplinary Research and Practice in the Age of GenAI'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
+
+
+
 
 **To be Published:** Preparing for submission to _International Conference on GenAI Literacy: Multidisciplinary Research and Practice in the Age of GenAI_ this year 
 

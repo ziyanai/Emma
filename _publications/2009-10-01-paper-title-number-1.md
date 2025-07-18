@@ -3,7 +3,7 @@ title: "E-book Market Dynamics in China: A Social Media Sentiment Analysis of Co
 collection: publications
 category: conferences
 permalink: /publication/e-book-market-dynamics
-excerpt: #'This paper is about fixing template issue #693.'
+excerpt: 'Utilising comments about e-books on Weibo over two years, this study looks at consumer responses to Amazon Kindle''s exit from the Chinese market.'
 date: 2024-02-17
 PP: 'Preparing for publication to '
 venue: 'Library and Information Science'
