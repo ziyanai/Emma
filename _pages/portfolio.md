@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## Volunteer 
-<hr style="border: 2px solid black;">
+<hr class="custom-hr">
 **Organization:** "Competing with Socrates" Project at HKU  
 **Period:** Jan 2022 - Nov 2022 
 

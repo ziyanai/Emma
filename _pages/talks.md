@@ -5,7 +5,7 @@ permalink: /reviewer/
 author_profile: true
 ---
 
-<div class="double-line"></div>
+<hr class="custom-hr">
 
 **Library Hi Tech Journal (SSCI impact factor 3.4)** 
 Apr 2024 - Present
