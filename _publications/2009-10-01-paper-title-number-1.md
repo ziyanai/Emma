@@ -11,7 +11,10 @@ paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).' 
 ---
 
-**To be Published:** Preparing for submission to _Library and Information Science_ this year;
+
+
+
+**To be Published:** Preparing for submission to _Library and Information Science_ this year 
 
 **Authors:** Luran Shi , **Ziyan Ai**, Zerong Xie, Dickson K. W. Chiu, Samuel Ping-Man Choi 
 
