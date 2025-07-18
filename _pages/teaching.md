@@ -8,7 +8,9 @@ author_profile: true
 {% include toc %}
 
 **Part-time Research Assistant** 
+
 **Location:** Hong Kong Metropolitan University
+
 **Period:** Jul 2024 – Dec 2024
 
  - Compile data from several internet sources to back up research initiatives and raise the standard of academic output.
@@ -16,7 +18,9 @@ author_profile: true
 
 
 **Library Assistant** 
+
 **Location:** Victoria Shanghai Academy
+
 **Period:** Oct 2023 - Present 
 
  - Employ data analysis techniques to manage and assess monthly library circulation data, producing visual statistics highlighting significant reading activities and borrowing trends, thereby enhancing library services.
