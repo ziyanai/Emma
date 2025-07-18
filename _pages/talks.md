@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Journal Editorial Review Board Member"
-permalink: /review-board-member/
+permalink: /reviewer/
 author_profile: true
 ---
 
