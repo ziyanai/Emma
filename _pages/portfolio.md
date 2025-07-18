@@ -5,6 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
+{% include toc %}
 
 ## Sergeant at Arms 
 <hr class="custom-hr">
