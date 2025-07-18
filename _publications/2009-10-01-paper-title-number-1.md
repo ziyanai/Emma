@@ -14,7 +14,6 @@ citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub
 
 
 
-**To be Published:** Preparing for submission to _Library and Information Science_ this year 
 
 **Authors:** Luran Shi , **Ziyan Ai**, Zerong Xie, Dickson K. W. Chiu, Samuel Ping-Man Choi 
 

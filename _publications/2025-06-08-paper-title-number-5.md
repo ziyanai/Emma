@@ -14,8 +14,6 @@ citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub
 
 
 
-**To be Published:** Preparing for submission to _International Conference on GenAI Literacy: Multidisciplinary Research and Practice in the Age of GenAI_ this year 
-
 **Authors:** **Ziyan Ai**, Tsz Kit Davy Ng, Kai Wah Samuel Chu
 
 **Background:** Deepfake has great potential as an educational tool, but it also poses some ethical and technical challenges.
