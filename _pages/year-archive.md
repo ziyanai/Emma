@@ -7,6 +7,19 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+
+<div style="width: 20%;">
+| IT Skills |
+|--|
+| Python |
+| RapidMiner |
+| SPSS |
+| MySQL |
+| Tableau |
+| Microsoft Office |
+</div> 
+
+
 **Achievements:**
 
  - Deloitte Digital & Innovation Camp Competition: Advanced to the semifinals
@@ -17,14 +30,4 @@ redirect_from:
 
  - Chinese (native) 
  - English (proficient)
-
-
-| IT Skills |
-|--|
-| Python |
-|RapidMiner|
-|SPSS|
-| MySQL |
-|  Tableau|
-| Microsoft Office |
 
