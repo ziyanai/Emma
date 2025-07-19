@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&center=true&vCenter=true&width=435&lines=Machine+learning;Data+Science+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&vCenter=true&width=435&lines=Machine+learning;Data+Science+)](https://git.io/typing-svg)
 
 
 ## About Me
@@ -26,7 +26,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 ## Education
 
 -   **Master of Science in Library and Information Management**  
-    The University of Hong Kong | Sep 2021 - Dec 2022  
+    The University of Hong Kong | <code> Sep 2021 - Dec 2022 <code>
     _Pass with Distinction_  
 
     | Modules|
@@ -38,7 +38,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
     
 -   **Bachelor of Business Administration (Hons.)**  
     **e-Business Management and Information Systems**  
-    Hong Kong Baptist University | Sep 2017 - Jul 2021  
+    Hong Kong Baptist University | <code> Sep 2017 - Jul 2021 <code> 
     _Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021)_
     
     | Modules|
@@ -50,16 +50,15 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 
 ## Study Tour 
 -   **Summer Programme of Disease and Medicine**  
-    Hong Kong Baptist University | Jul 2019 - Aug 2019  
+    Hong Kong Baptist University <code> Jul 2019 - Aug 2019 <code> 
     Explored diverse topics, including traditional Chinese medicine, pharmacology, and pathology, significantly broadening my understanding of the healthcare industry.  
     Successfully earned academic credits and achieved commendable grades for participation in the programme.
     
 -   **Summer Programme of Bauhaus Insight**  
-    Bauhaus-Universitaet Weimar | Aug 2018  
+    Bauhaus-Universitaet Weimar <code> Aug 2018 <code> 
     Exhibited great comprehension and performance on assignments; successfully earned academic credits.  
     Applied design concepts over several media while learning interactive work and computer programming.
 
 
-这是包含竖线&#124;的文本。
-   或者使用 <code>a |= y;</code>
+
 
