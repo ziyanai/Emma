@@ -62,8 +62,9 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
     <div style="border-left: 2px solid #e0e0e0; padding: 10px;">
      Applied design concepts over several media while learning interactive work and computer programming. <br>
      Exhibited great comprehension and performance on assignments; successfully earned academic credits.
+     </div> 
     
-    </div>
+    
 
 
 
