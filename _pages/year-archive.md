@@ -12,6 +12,13 @@ redirect_from:
  - Deloitte Digital & Innovation Camp Competition: Advanced to the semifinals
  - Microsoft Excel Expert Certificate (Office 2016)
 
+
+**Languages:** 
+
+ - Chinese (native) 
+ - English (proficient)
+
+
 | IT Skills |
 |--|
 | Python |
@@ -20,10 +27,4 @@ redirect_from:
 | MySQL |
 |  Tableau|
 | Microsoft Office |
-
-
-**Languages:** 
-
- - Chinese (native) 
- - English (proficient)
 
