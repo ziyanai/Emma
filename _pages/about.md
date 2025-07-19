@@ -3,8 +3,8 @@ permalink: /
 title: "Self-Introduction" 
 author_profile: true
 redirect_from: 
-  - about/
-  - about.html
+  - /about/
+  - /about.html
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&vCenter=true&width=435&lines=Machine+learning;Data+Science+)](https://git.io/typing-svg)
@@ -53,15 +53,16 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 -   **Summer Programme of Disease and Medicine**  
     Hong Kong Baptist University | Jul 2019 - Aug 2019  
     <div style="border-left: 2px solid #e0e0e0; padding: 10px;">
-    Explored diverse topics, including traditional Chinese medicine, pharmacology, and pathology, significantly broadening my understanding of the healthcare industry.  
+    Explored diverse topics, including traditional Chinese medicine, pharmacology, and pathology, significantly broadening my understanding of the healthcare industry. <br>
     Successfully earned academic credits and achieved commendable grades for participation in the programme.
     </div>
     
 -   **Summer Programme of Bauhaus Insight**  
     Bauhaus-Universitaet Weimar | Aug 2018  
     <div style="border-left: 2px solid #e0e0e0; padding: 10px;">
-    Exhibited great comprehension and performance on assignments; successfully earned academic credits. <br>
-    Applied design concepts over several media while learning interactive work and computer programming.
+     Applied design concepts over several media while learning interactive work and computer programming. <br>
+     Exhibited great comprehension and performance on assignments; successfully earned academic credits.
+    
     </div>
 
 
