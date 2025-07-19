@@ -26,8 +26,8 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 ## Education
 
 -   **Master of Science in Library and Information Management**  
-    The University of Hong Kong | Sep 2021 - Dec 2022 
-    <code> _Pass with Distinction_ </code> 
+    The University of Hong Kong | Sep 2021 - Dec 2022  
+    <code> Pass with Distinction </code> 
 
     | Modules|
     |--|
@@ -38,8 +38,8 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
     
 -   **Bachelor of Business Administration (Hons.)**  
     **e-Business Management and Information Systems**  
-    Hong Kong Baptist University | Sep 2017 - Jul 2021 
-    <code> _Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021)_ </code> 
+    Hong Kong Baptist University | Sep 2017 - Jul 2021  
+    <code> Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021) </code> 
     
     | Modules|
     |--|
@@ -50,15 +50,18 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 
 ## Study Tour 
 -   **Summer Programme of Disease and Medicine**  
-    Hong Kong Baptist University | Jul 2019 - Aug 2019 
+    Hong Kong Baptist University | Jul 2019 - Aug 2019  
     Explored diverse topics, including traditional Chinese medicine, pharmacology, and pathology, significantly broadening my understanding of the healthcare industry.  
     Successfully earned academic credits and achieved commendable grades for participation in the programme.
     
 -   **Summer Programme of Bauhaus Insight**  
-    Bauhaus-Universitaet Weimar | Aug 2018 
+    Bauhaus-Universitaet Weimar | Aug 2018  
     Exhibited great comprehension and performance on assignments; successfully earned academic credits.  
     Applied design concepts over several media while learning interactive work and computer programming.
 
 
 
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+  这是一个带边框的文本块
+</div>
 
