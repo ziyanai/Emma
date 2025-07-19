@@ -14,6 +14,7 @@ redirect_from:
 
 Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in machine learning and data science. I hold a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University, where I studied under the supervision of Dr. Chiu, Dickson K. W., specializing in the field of Human-Computer Interaction (HCI). 
 
+
 ## Research Interests
 
 -   Machine Learning 
@@ -39,7 +40,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 -   **Bachelor of Business Administration (Hons.)**  
     **e-Business Management and Information Systems**  
     Hong Kong Baptist University | Sep 2017 - Jul 2021  
-    <code> Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021) </code> 
+    <code>Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021)</code> 
     
     | Modules|
     |--|
@@ -58,12 +59,10 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
     
 -   **Summer Programme of Bauhaus Insight**  
     Bauhaus-Universitaet Weimar | Aug 2018  
+    <div style="border-left: 2px solid #e0e0e0; padding: 10px;">
     Exhibited great comprehension and performance on assignments; successfully earned academic credits.  
     Applied design concepts over several media while learning interactive work and computer programming.
+    </div>
 
 
-
-<div style="border-left: 2px solid #e0e0e0; padding: 10px;">
-  这是一个只有左边有边框的文本块
-</div>
 
