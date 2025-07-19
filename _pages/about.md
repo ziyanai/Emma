@@ -12,7 +12,7 @@ redirect_from:
 
 ## About Me
 
-Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in machine learning and data science. Under the supervision of Dr. Dickson K.W. Chiu, I specialised in Natural Language Processing and large language models. I also earned a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University.  
+Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in machine learning and data science. Under the supervision of Dr. Dickson K.W. Chiu and Dr. Samuel Ping-Man Choi, I specialised in Natural Language Processing and large language models. I also earned a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University.  
 
 
 ## Research Interests
