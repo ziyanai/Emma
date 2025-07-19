@@ -27,13 +27,14 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 ## Education
 
 -   **Master of Science in Library and Information Management**  
+    **(Data Science)**  
     The University of Hong Kong | Sep 2021 - Dec 2022  
     <code> Pass with Distinction </code> 
 
     | Modules|
     |--|
     | Data Science and Learning Analytics |
-    |Information Behaviour|
+    |Data Curation|
     |Information System Analysis and Development|
     
     
