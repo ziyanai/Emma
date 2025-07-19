@@ -10,7 +10,7 @@ redirect_from:
 
 
 | IT Skills |
-|-|
+|--|
 | Python |
 | RapidMiner |
 | SPSS |
