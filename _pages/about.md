@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=30&pause=2000&color=1243D4&width=435&lines=Large+Language+Model)](https://git.io/typing-svg)
 
 ## About Me
 
