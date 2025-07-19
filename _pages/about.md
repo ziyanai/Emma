@@ -51,8 +51,10 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 ## Study Tour 
 -   **Summer Programme of Disease and Medicine**  
     Hong Kong Baptist University | Jul 2019 - Aug 2019  
+    <div style="border-left: 2px solid #e0e0e0; padding: 10px;">
     Explored diverse topics, including traditional Chinese medicine, pharmacology, and pathology, significantly broadening my understanding of the healthcare industry.  
     Successfully earned academic credits and achieved commendable grades for participation in the programme.
+    </div>
     
 -   **Summer Programme of Bauhaus Insight**  
     Bauhaus-Universitaet Weimar | Aug 2018  
@@ -61,7 +63,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 
 
 
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-  这是一个带边框的文本块
+<div style="border-left: 2px solid #e0e0e0; padding: 10px;">
+  这是一个只有左边有边框的文本块
 </div>
 
