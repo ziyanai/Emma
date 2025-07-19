@@ -7,30 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=30&pause=2000&color=1243D4&width=435&lines=Large+Language+Model)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=385ED2&center=true&vCenter=true&width=435&lines=Machine+learning;Data+Science+)](https://git.io/typing-svg)
+
 
 ## About Me
 
-I am a graduated student at the University of Hong Kong, passionately pursuing research in Natural Language Processing (NLP) and fundamental model-based agents. I hold a Bachelor's degree in e-Business Management and Information Systems from Hong Kong Baptist University, where I specialized in Human-Computer Interaction (HCI) under the mentorship of Dr. Chiu, Dickson K. W. 
+Having graduated from the University of Hong Kong with a Master's degree in Library and Information Management, I have a strong passion for research in machine learning and data science. I hold a Bachelor’s degree in e-Business Management and Information Systems from Hong Kong Baptist University, where I studied under the supervision of Dr. Chiu, Dickson K. W., specializing in the field of Human-Computer Interaction (HCI). 
 
 ## Research Interests
 
-My long-term research goal is to develop autonomous GUI agents capable of:
+-   Machine Learning 
+-   Data Science 
+-   Interdisciplinary Applications of Data Science in Digital Humanities
+-   Large Language Models 
+-   Information Management 
 
--   Understanding open-ended natural language and multi-modal instructions.
-    
--   Observing and interacting with diverse GUI environments (e.g., OS, mobile) with grounded knowledge.
-    
--   Generating executable steps, such as atomic actions, system shortcuts, or code, to complete tasks iteratively.  
-    The ultimate aim is to create fundamental large agent models that integrate seamlessly into daily life, akin to ChatGPT, moving beyond prompt-based wrappers of existing LLMs. My research spans data collection, model training/fine-tuning, and evaluation, presenting both challenges and exciting opportunities.  
-    Additionally, I am interested in:
-    
--   Exploring the application of data science in education.
-    
--   Technology-enhanced learning.
-    
--   Interdisciplinary applications of data science in digital humanities.
-    
 
 ## Education
 
@@ -45,7 +36,8 @@ My long-term research goal is to develop autonomous GUI agents capable of:
     |Information System Analysis and Development|
     
     
--   **Bachelor of Business Administration (Hons.) e-Business Management and Information Systems**  
+-   **Bachelor of Business Administration (Hons.)**  
+    **e-Business Management and Information Systems**  
     Hong Kong Baptist University | Sep 2017 - Jul 2021  
     _Awards: Prof. Xu Jialu Whole Person Education Award and Scholarship (2021)_
     
@@ -68,5 +60,6 @@ My long-term research goal is to develop autonomous GUI agents capable of:
     Applied design concepts over several media while learning interactive work and computer programming.
 
 
-
+这是包含竖线&#124;的文本。
+   或者使用 <code>a |= y;</code>
 
