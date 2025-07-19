@@ -60,7 +60,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 -   **Summer Programme of Bauhaus Insight**  
     Bauhaus-Universitaet Weimar | Aug 2018  
     <div style="border-left: 2px solid #e0e0e0; padding: 10px;">
-    Exhibited great comprehension and performance on assignments; successfully earned academic credits.  
+    Exhibited great comprehension and performance on assignments; successfully earned academic credits. <br>
     Applied design concepts over several media while learning interactive work and computer programming.
     </div>
 
