@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 
-<div style="width: 20%;">
+
 | IT Skills |
-|--|
+|-|
 | Python |
 | RapidMiner |
 | SPSS |
 | MySQL |
 | Tableau |
 | Microsoft Office |
-</div> 
+
 
 
 **Achievements:**
