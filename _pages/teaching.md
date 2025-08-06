@@ -32,7 +32,7 @@ author_profile: true
 ## Contract Assistant Project Officer 
 <hr class="custom-hr">
 **Location:** China Mobile Hong Kong Company Limited  
-**Program:** Youth TRYer
+**Program:** Youth TRYer  
 **Period:** Nov 2022 - Oct 2023
 
  - Improved user involvement through statistical analysis of app user data and tailored activity design that effectively raised user interaction and participation.
