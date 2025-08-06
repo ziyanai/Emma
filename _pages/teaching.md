@@ -29,7 +29,7 @@ author_profile: true
  
 
 
-## Youth TRYer 
+## Contract Assistant Project Officer 
 <hr class="custom-hr">
 **Location:** China Mobile Hong Kong Company Limited  
 **Period:** Nov 2022 - Oct 2023
