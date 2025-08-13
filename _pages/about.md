@@ -20,6 +20,7 @@ Having graduated from the University of Hong Kong with a Master's degree in Libr
 -   Machine Learning 
 -   Data Science 
 -   Interdisciplinary Applications of Data Science in Digital Humanities
+-   Neural Networks 
 -   Large Language Models 
 -   Data Mining 
 -   Information Management 
